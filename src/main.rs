@@ -184,7 +184,7 @@ fn create(command: args::CreateCommand) -> Result<(), Error> {
         .args(&[
             "-Z",
             "-o",
-            "--new=1::+100M",
+            "--new=1::+250M",
             "--new=2::+1M",
             "--largest-new=3",
             "--typecode=1:EF00",
