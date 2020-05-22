@@ -15,7 +15,7 @@ date without having to boot it. Encrypting the root partition is as easy as prov
 
 ## Installation
 
-You can either build the project using cargo build or install the `alma` package from AUR.
+You can either build the project using `cargo build` or install the `alma` package from AUR.
 
 ## Usage
 
